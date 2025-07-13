@@ -1,4 +1,4 @@
-![alt text](./dice-6.png)
+![alt text](./piggame-vs-bot.png)
 
 # Pig Game
  A short game where you need to reach 100 points before your opponent. 
